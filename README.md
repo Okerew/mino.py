@@ -4,8 +4,10 @@ This is a minifier for python
 No adittional libraries are required
 <br>
 To use do `python mino.py <filename>`
-<br>
-Example before minifaction:
+_________
+Examples
+--------
+Before minifaction:
 ``` python
 # This is a basic calculator program in Python
 
